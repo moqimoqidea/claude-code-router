@@ -15,8 +15,8 @@ importers:
         specifier: ^5.0.0
         version: 5.5.0
       '@moqimoqidea/llms':
-        specifier: ^1.0.38
-        version: 1.0.38(ws@8.18.3)
+        specifier: ^1.0.39
+        version: 1.0.39(ws@8.18.3)
       dotenv:
         specifier: ^16.4.7
         version: 16.6.1
@@ -341,8 +341,8 @@ packages:
     resolution: {integrity: sha512-9I2Zn6+NJLfaGoz9jN3lpwDgAYvfGeNYdbAIjJOqzs4Tpc+VU3Jqq4IofSUBKajiDS8k9fZIg18/z13mpk1bsA==}
     engines: {node: '>=8'}
 
-  '@moqimoqidea/llms@1.0.38':
-    resolution: {integrity: sha512-uMaSGPy7G0ZwNhZRvbi8bUTEHJEBfrCPVsyZt+k+CGfIrXQae4sr3ilhcP7mheDPk8yLiDT7xZ8uDDG3RZIcIQ==}
+  '@moqimoqidea/llms@1.0.39':
+    resolution: {integrity: sha512-2cQaJzGL72gq9YX0SFd20KrsaQOEwwhha3ZYz4MNvf3dh0tQ8OO+lNXXz3C//7uRzChzepNR2XA2ezued1GN8w==}
 
   '@nodelib/fs.scandir@2.1.5':
     resolution: {integrity: sha512-vq24Bq3ym5HEQm2NKCr3yXDwjc7vTsEThRDnkp2DK9p1uqLR+DHurm/NOTo0KG7HYHU7eppKZj3MyqYuMBf62g==}
@@ -1368,7 +1368,7 @@ snapshots:
 
   '@lukeed/ms@2.0.2': {}
 
-  '@moqimoqidea/llms@1.0.38(ws@8.18.3)':
+  '@moqimoqidea/llms@1.0.39(ws@8.18.3)':
     dependencies:
       '@anthropic-ai/sdk': 0.54.0
       '@fastify/cors': 11.1.0
